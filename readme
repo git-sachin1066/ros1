@@ -1,0 +1,16 @@
+Req:
+Ubuntu 20.04.6 
+
+Step1:
+Install following https://robostack.github.io/GettingStarted.html
+
+
+Step2:
+1> Add to bashrc : export PATH="~/miniforge3/bin/:$PATH"
+2> source ~/.bashrc
+3> activate rosbag
+4> conda activate ros_env
+ 
+Step3:
+rosbag -h
+
