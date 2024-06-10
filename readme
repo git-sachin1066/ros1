@@ -12,5 +12,6 @@ Step2:
 4> conda activate ros_env
  
 Step3:
-rosbag -h
+1> get the topic name
+rosbag -h "rosbagfilename"
 
